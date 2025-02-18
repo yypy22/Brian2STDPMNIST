@@ -17,7 +17,7 @@ import brian2 as b2
 from brian2tools import *
 
 # specify the location of the MNIST data
-MNIST_data_path = ''
+MNIST_data_path = '/Users/eijimiyamoto/Desktop/RNN/data/MNIST'
 
 #------------------------------------------------------------------------------
 # functions
